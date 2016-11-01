@@ -31,6 +31,9 @@
     },
     "es6-shim/es6-shim.d.ts": {
       "commit": "44be13ae844ec0721109542d5902e41438d72855"
+    },
+    "debug/debug.d.ts": {
+      "commit": "44be13ae844ec0721109542d5902e41438d72855"
     }
   }
 }

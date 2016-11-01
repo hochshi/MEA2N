@@ -2,7 +2,7 @@
 
 import {Server} from '../app';
 import * as http from 'http';
-//import debug = require('debug')('try:server');
+import debug = require('debug');
 
 /**
  * Normalize a port into a number, string, or false.
@@ -61,7 +61,8 @@ function onListening() {
     var bind = typeof addr === 'string'
         ? 'pipe ' + addr
         : 'port ' + addr.port;
-    //debug('Listening on ' + bind);
+    debug('Listening on ' + bind);
+    console.log("Demo Express server listening on port %d in %s mode", 3000, app.settings.env);
 }
 
 var app = Server.bootstrap().app;
