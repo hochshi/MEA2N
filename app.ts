@@ -10,7 +10,7 @@ import * as mongoose from "mongoose";
  *
  * @class Server
  */
-class Server {
+export class Server {
 
     public app: express.Application;
 
@@ -102,5 +102,5 @@ class Server {
     }
 }
 
-var server = Server.bootstrap();
-export = server.app;
+// var server = Server.bootstrap();
+// export = server.app;
