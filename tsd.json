@@ -9,31 +9,34 @@
       "commit": "44be13ae844ec0721109542d5902e41438d72855"
     },
     "express/express.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "4d672cbbd775375ea2cdca5c0f8a5ae31f6fa80f"
     },
     "serve-static/serve-static.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "4d672cbbd775375ea2cdca5c0f8a5ae31f6fa80f"
     },
     "node/node.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "4d672cbbd775375ea2cdca5c0f8a5ae31f6fa80f"
     },
     "express-serve-static-core/express-serve-static-core.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "4d672cbbd775375ea2cdca5c0f8a5ae31f6fa80f"
     },
     "mime/mime.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "4d672cbbd775375ea2cdca5c0f8a5ae31f6fa80f"
     },
     "mongodb/mongodb.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "a8ecb3be1dfaf898cd95bdf40529ade758781365"
     },
     "mongoose/mongoose.d.ts": {
-      "commit": "44be13ae844ec0721109542d5902e41438d72855"
+      "commit": "a8ecb3be1dfaf898cd95bdf40529ade758781365"
     },
     "es6-shim/es6-shim.d.ts": {
       "commit": "44be13ae844ec0721109542d5902e41438d72855"
     },
     "debug/debug.d.ts": {
       "commit": "44be13ae844ec0721109542d5902e41438d72855"
+    },
+    "morgan/morgan.d.ts": {
+      "commit": "4d672cbbd775375ea2cdca5c0f8a5ae31f6fa80f"
     }
   }
 }
